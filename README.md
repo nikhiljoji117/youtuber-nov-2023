@@ -26,3 +26,6 @@ The analysis focuses on the following key areas:
 - Average Earnings per Subscriber  
 - Channels Created by Year  
 - Total YouTubers by Country  
+
+![Dashboard Overview](images/dashboard.png)
+
