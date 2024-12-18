@@ -20,11 +20,6 @@ SELECT Youtuber, subscribers FROM youtubers
 ORDER BY subscribers DESC LIMIT 10;
 
 
--- SELECT category, SUM(video_views) AS total_views
--- FROM youtubers
--- GROUP BY category
--- ORDER BY total_views DESC;
-
 SELECT Youtuber, 
        (highest_yearly_earnings / video_views) AS earnings_per_view
 FROM youtubers 
