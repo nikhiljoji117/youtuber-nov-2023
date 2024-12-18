@@ -29,3 +29,5 @@ The analysis focuses on the following key areas:
 
 ![Dashboard Overview](images/YT_DB.png)
 
+Explore the interactive dashboard:  
+[Click Here to View the Project](https://mavenanalytics.io/project/23386)
