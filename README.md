@@ -27,5 +27,5 @@ The analysis focuses on the following key areas:
 - Channels Created by Year  
 - Total YouTubers by Country  
 
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](E:\Data Analyst\Power BI\Portfolio Projects\Complete\youtuber nov 2023\images\YT_DB.png)
 
