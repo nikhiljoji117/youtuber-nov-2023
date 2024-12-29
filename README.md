@@ -2,6 +2,8 @@
 
 This project analyzes **YouTube Statistics** using data from a curated dataset of YouTubers' performance. It provides insights into subscriber counts, earnings, views, and trends across categories and regions, utilizing **MySQL**, **Python**, and **Power BI** for a comprehensive end-to-end analysis.
 
+[Click Here to View the Live Dashboard](https://mavenanalytics.io/project/23386)
+
 The analysis focuses on the following key areas:
 
 1. **Top Performers**: Identifying YouTube channels with the highest subscriber counts and yearly earnings.  
@@ -29,5 +31,3 @@ The analysis focuses on the following key areas:
 
 ![Dashboard Overview](images/YT_DB.png)
 
-Explore the interactive dashboard:  
-[Click Here to View the Live Dashboard](https://mavenanalytics.io/project/23386)
